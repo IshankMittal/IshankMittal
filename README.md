@@ -15,5 +15,5 @@ Learning Data Structures & Competitive Programming
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshankMittal&theme=tokyonight" width="100%"/>
 
-##
+## 🚀 Most Used Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshankMittal&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
