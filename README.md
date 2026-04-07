@@ -3,6 +3,7 @@
 C++ | Python  
 Learning Data Structures & Competitive Programming  
 
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
@@ -12,7 +13,6 @@ Learning Data Structures & Competitive Programming
 ##
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsoo&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsoo&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsoo&theme=tokyonight" width="49.5%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsoo&theme=tokyonight" width="49.5%"/>
 
 </div>
