@@ -14,10 +14,10 @@ Learning Data Structures & Competitive Programming
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" style="padding:0;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsoo&theme=tokyonight" style="display:block; width:100%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshankMittal&theme=tokyonight" style="display:block; width:100%;"/>
 </td>
 <td width="50%" style="padding:0;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imsoo&layout=compact&theme=tokyonight&hide_border=true" style="display:block; width:100%;"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshankMittal&layout=compact&theme=tokyonight&hide_border=true" style="display:block; width:100%;"/>
 </td>
 </tr>
 </table>
