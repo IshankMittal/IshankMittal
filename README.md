@@ -10,5 +10,10 @@ Learning Data Structures & Competitive Programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 </p>
 
-## GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IshankMittal&show_icons=true&theme=tokyonight)
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsoo&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsoo&theme=tokyonight" height="180em"/>
+
+</div>
