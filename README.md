@@ -10,4 +10,4 @@ Goal: Become a strong problem solver
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=IshankMittal&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IshankMittal&show_icons=true&theme=tokyonight)
