@@ -11,6 +11,13 @@ Learning Data Structures & Competitive Programming
 </p>
 
 ##
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsoo&theme=tokyonight" width="50%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsoo&theme=tokyonight" width="50%"/>
-</div>
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsoo&theme=tokyonight" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=ffffff" width="100%"/>
+</td>
+</tr>
+</table>
