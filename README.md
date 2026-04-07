@@ -21,3 +21,7 @@ Learning Data Structures & Competitive Programming
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshankMittal&theme=tokyonight" width="100%"/>
