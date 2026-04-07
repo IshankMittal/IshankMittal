@@ -11,7 +11,7 @@ Learning Data Structures & Competitive Programming
 </p>
 
 ##
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
 <tr>
 <td width="50%" style="padding:0;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshankMittal&theme=tokyonight" style="display:block; width:100%;"/>
